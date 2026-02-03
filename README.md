@@ -116,31 +116,6 @@ The voice model predicts healthy, but the tremor model shows PD with 55.90% conf
 The voice model predicts healthy , but the tremor model shows PD with 70% confidence. The combined probability (weighted) drops below the threshold (to ~33.69%).  
  **Final Diagnosis**: Healthy  
 
----
-
-##  Demo Video
-
-
-[ Download Full Video (MP4)](media/demo.mp4)
-
----
-
-##  License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
-> Portions © 2025 **Eshaan Singla** – used with permission under the MIT License.
-
----
-
-##  Contact
-
-**Sartaj Singh Virdi**  
- sartajvirdi@gmail.com
- 
- [LinkedIn](https://www.linkedin.com/in/sartaj-singh-virdi-8b85b8352/) 
- 
- [GitHub](https://github.com/SartajVirdi)
 
 ---
 
@@ -167,6 +142,7 @@ This project was originally part of a collaborative effort during the **ELC Summ
 - Harsheen Kaur  
 - Nimrat Kaur  
 - Tanjot Chawla
+- Aman Pratap Kushwaha
 
 > The current version has been **independently extended, maintained, and documented by Sartaj Singh Virdi**.  
 > Special thanks to **Eshaan Singla** for contributions to early model development and project ideation.
@@ -182,8 +158,4 @@ This project was originally part of a collaborative effort during the **ELC Summ
 -  **Explore additional biomarkers and neurological indicators** beyond Parkinson’s Disease
 ---
 
-##  Project Poster
 
-<p align="center">
-  <img src="media/Poster.jpg" alt="NeuroGait-Eye Poster" width="800">
-</p>
